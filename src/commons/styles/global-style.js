@@ -43,6 +43,10 @@ const globalStyle = createGlobalStyle `
     margin-left: 42px;
   }
 
+  .MuiTypography-body2{
+    color: black;
+  }
+
 `
 
 export default globalStyle
