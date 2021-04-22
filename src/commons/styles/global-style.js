@@ -39,6 +39,10 @@ const globalStyle = createGlobalStyle `
     cursor: pointer;
   }
 
+  .sc-eCImvq img{
+    margin-left: 42px;
+  }
+
 `
 
 export default globalStyle

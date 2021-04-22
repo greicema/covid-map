@@ -29,4 +29,5 @@ export const ItemStyled = styled.div `
   display: flex;
   justify-content: space-between;
   min-width: 150px;
+  margin-right: 12px;
 `
